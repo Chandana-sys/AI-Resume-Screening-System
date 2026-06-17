@@ -1,0 +1,16 @@
+Software Engineer
+
+Required Skills:
+Python
+Machine Learning
+SQL
+Cloud Computing
+Git
+Data Structures
+
+Responsibilities:
+Develop AI solutions
+Build machine learning models
+Deploy applications
+Analyze data
+Collaborate with development teams
